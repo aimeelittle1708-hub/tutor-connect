@@ -31,10 +31,5 @@ Tutor Connect is a web platform that helps students find and book sessions with 
 - Database: PostgreSQL
 - Auth: Firebase Auth
 
-## Getting Started
-1. Clone the repo
-2. Install dependencies
-3. Run frontend and backend servers
-
 ## License
 MIT
